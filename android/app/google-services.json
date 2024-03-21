@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261081149632",
+    "project_id": "hrexamprep-90790",
+    "storage_bucket": "hrexamprep-90790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261081149632:android:dd4bf004dec0ee9677bd25",
+        "android_client_info": {
+          "package_name": "com.hrexamprep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftfFSQ_fj6GJzcpqJ8ko684OT-E_3g6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+export const DefaultImages = {
+  //   Splash: require('../Help/media/Png/Splash.png'),
+  BackGround: require('../../asset/image/other/Background.png'),
+  DefautProfile: require('../../asset/image/other/Avtarimage.png'),
+  rangeView: require('../../asset/image/other/rangenew.png'),
+  homeCard: require('../../asset/image/other/HomeCard.png'),
+  leaderBord: require('../../asset/image/other/LeaderBoard.png'),
+  ButtonImage: require('../../asset/image/other/buttonBackColor.png'),
+  PopUpImage: require('../../asset/image/other/PopUpImage.png'),
+  Flashcard1: require('../../asset/image/other/FlashCard1.png'),
+  Flashcard2: require('../../asset/image/other/FlashCard2.png'),
+  Flashcard3: require('../../asset/image/other/FlashCard3.png'),
+  Manager1: require('../../asset/image/other/Manager1.png'),
+  Manager2: require('../../asset/image/other/Manager2.png'),
+  Manager3: require('../../asset/image/other/Manager3.png'),
+  ProfileBack: require('../../asset/image/other/ProfileBackImage.png'),
+  BadgesBackImage: require('../../asset/image/other/BadgesBackImage.png'),
+  BackGround2: require('../../asset/image/other/back.png'),
+  Logo: require('../../asset/image/other/logo.png'),
+  Base: require('../../asset/image/other/base.png'),
+  SHRM: require('../../asset/image/other/SHRM.png'),
+  PHR: require('../../asset/image/other/PHR.png'),
+};
+export const Colors = {
+  headerText: '#1E232C',
+  inputtext: '#1E1E1E',
+  default: '#00ADEF',
+  white: '#FFF',
+};
+const Theme = {Colors};

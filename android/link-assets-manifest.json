@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "asset/fonts/IBMPlexSans-Bold.ttf",
+      "sha1": "6c829b9e0904df3399e7ac03ee1bb1f72c2d5e52"
+    },
+    {
+      "path": "asset/fonts/IBMPlexSans-ExtraLight.ttf",
+      "sha1": "d81b576095a66090e49d6d0b761f1a7a06aa1c93"
+    },
+    {
+      "path": "asset/fonts/IBMPlexSans-Light.ttf",
+      "sha1": "371d18ef3fa2148a1c0b40834a9228eaa7bb2e31"
+    },
+    {
+      "path": "asset/fonts/IBMPlexSans-Medium.ttf",
+      "sha1": "754f3b3406638d2b8da0e71dd4449557add0eccf"
+    },
+    {
+      "path": "asset/fonts/IBMPlexSans-Regular.ttf",
+      "sha1": "8e18e19c963fd6b0895620010d1a4adbc2d2caf7"
+    },
+    {
+      "path": "asset/fonts/IBMPlexSans-SemiBold.ttf",
+      "sha1": "45bed8ec82912658ca349d6332084a12266fcc7a"
+    },
+    {
+      "path": "asset/fonts/IBMPlexSans-Thin.ttf",
+      "sha1": "b927f11d9362e53f289b0a148663f517fab35ee1"
+    },
+    {
+      "path": "asset/fonts/OFL.txt",
+      "sha1": "80db3361b0ff3da772a7517b76566c101d0aae75"
+    }
+  ]
+}

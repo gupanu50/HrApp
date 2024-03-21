@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "325480397611",
+    "project_id": "hrexamprep-39054",
+    "storage_bucket": "hrexamprep-39054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325480397611:android:141ac163fd4f02bf10236e",
+        "android_client_info": {
+          "package_name": "com.hrexamprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325480397611-142c07e4umuue99m9b3nas4dlegcn59v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChJm7spO8yP3VY-sLoPtuoH8gfDTt0UDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325480397611-142c07e4umuue99m9b3nas4dlegcn59v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325480397611-ntejnpc8m9goq8jvkhtd55a5vtptimk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.digimonk.react.native.app.HRExamPrep"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
